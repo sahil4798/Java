@@ -12,10 +12,10 @@ import java.lang.annotation.*;
 }
 
 @MyAnno(name = "pikas", project = "bank", date = "26\2\2023")
+
 class Annotation {
 
     public static void main(String[] args) {
-
         int count;
     }
 }
