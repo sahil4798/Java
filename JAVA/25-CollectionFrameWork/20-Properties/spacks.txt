@@ -1,0 +1,6 @@
+#SpacksOfMyPc
+#Tue May 30 00:45:04 IST 2023
+Brand=Apple
+Processor=M1
+color=Black
+Model=M1

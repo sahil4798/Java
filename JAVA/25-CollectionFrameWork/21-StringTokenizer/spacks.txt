@@ -1,0 +1,4 @@
+Brand=Apple
+Processor=M1
+color=Black
+Model=M1

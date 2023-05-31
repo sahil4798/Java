@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>My Pc Information</comment>
+<entry key="Brand">Apple</entry>
+<entry key="Processor">M1</entry>
+<entry key="color">Black</entry>
+<entry key="Model">M1</entry>
+</properties>

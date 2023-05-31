@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Goku</comment>
+<entry key="Name">Goku</entry>
+<entry key="HairColor">Black</entry>
+<entry key="Power">GodLevel</entry>
+<entry key="Model">M1</entry>
+</properties>
