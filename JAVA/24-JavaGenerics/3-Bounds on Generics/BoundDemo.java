@@ -35,7 +35,9 @@ class BoundDemo {
 
     public static void main(String[] args) throws Exception {
 
-        Data<B> d = new Data<>();
+        // Data<Integer> d = new Data<>();// ERROR
+
+        // Data<A> d = new Data<>(); // A , B , C
 
         // d.append(89);
         // d.append("bjsa");

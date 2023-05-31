@@ -28,8 +28,10 @@ class Data<T> {
 
 class WildCardDemo {
 
-    static <T> void fun(Data<? super C> x) {
+    // static <T> void fun(Data<? super C> x) {
+    static void fun(Data<? extends A> x) {
         x.show();
+        System.out.println("fun Method");
     }
 
     public static void main(String[] args) {
@@ -42,7 +44,7 @@ class WildCardDemo {
         // d2.append("HII");
         // d2.append("Aahil");
 
-        // fun(d1);
+        fun(d1);
         // fun(d2);
     }
 }
